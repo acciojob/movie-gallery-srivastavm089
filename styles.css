@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+.first-row{
+    display: flex;
+    gap: 25px;
+}
+.second-row{
+    display: flex;
+    gap: 25px;
+}
+.third-row{
+    display: flex;
+    gap: 25px;
+}
